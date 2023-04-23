@@ -1,16 +1,18 @@
 
 
-<h3 align = center> Lista de Questões Resolvidas com algoritmo<h3 align = center>
+<h3 align = center> Aqui se encontra a Lista de Questões Resolvidas com Algoritmo: <h3 align = center>
 
+  ![a86a8988cec63eb2887c11115f6ec581](https://user-images.githubusercontent.com/125154278/233858330-5ca394d5-7d76-4570-9e6f-207375906730.gif)
+  
 | Questão | Enunciado |
 | --- | --- |
-| 03 | Faça um programa que receba trés notas e seus respectivos pesos, calcule e mostre a média ponderada dessas notas. |
-| 07 | Faça um programa que receba o salário-base de um funcionário, calcule e mostre o seu salário a receber, sabendo-se que esse funcionário tem gratificação de R$ 50.00 e paga imposto de 10% sobre o salário-base. |
-| 08 | Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento. |
-| 09 | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2 |
-| 10 | Faça um programa que calcule e mostre a área de um círculo.|
-| 14 | Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: a) a idade dessa pessoa; b) quantos anos essa pessoa terá em 2005. |
-| 15 | O custo ao consumidor de um carro novo é a soma do preço de fabrica com o percentual de lucro do distribuidor e dos impostos aplicados ao preço de fábrica. Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos. Calcule e mostre: a) o valor correspondente ao lucro do distribuidor; b) o valor correspondente aos impostos; c) o preço final do veiculo. |
-| 18 | 18. Pedro comprou um saco de ração com peso em quilos. Pedro possui dois gatos para os quais fornece a quantidade de ração em gramas. Faça um programa que receba o peso do saco de ração e a quantidade de ração fornecida para cada gato. Calcule e mostre quanto restará de raçãoa no saco após cinco dias. |
-| 19 | Cada degrau de uma escada tem X e altura. Faça um programa que receba essa altura e a altura que o usuário deseja alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo, sem se preocupar com a altura do usuário. |
-| 22 | Sabe-se que o quilowatt de energia custa um quinto do salário minimo. Faça um programa que receba o valor do salário minimo e a quantidade de quilowatts consumida por uma residência, Calcule e mostre: a) O valor, em reais, de cada quilowatt; b) O valor, em reais, a ser pago por essa residência; c) O valor, em reais, a ser pago com desconto de 15%.
+| 03 | ![image](https://user-images.githubusercontent.com/128996657/233857551-b6cba113-681c-4e54-83ac-4f8ee6d770ef.png) |
+| 07 | ![image](https://user-images.githubusercontent.com/128996657/233857562-9747579f-f1ac-42c5-b9b4-55cfcfbc4c8f.png) |
+| 08 | ![image](https://user-images.githubusercontent.com/128996657/233857572-e8216095-e2d5-49e2-b0c0-e87fee04b6db.png) |
+| 09 | ![image](https://user-images.githubusercontent.com/128996657/233857581-55321bae-af10-433d-9a85-95eed5126d02.png) |
+| 10 | ![image](https://user-images.githubusercontent.com/128996657/233857593-dc463086-dd47-4fe2-9291-8bc444e8c500.png) |
+| 14 | ![image](https://user-images.githubusercontent.com/128996657/233857599-7ca0b440-1815-442f-a9b3-9eb460eb8271.png) |
+| 15 | ![image](https://user-images.githubusercontent.com/128996657/233857612-b8136a54-762a-46a2-aa14-75d1a43fc832.png) |
+| 18 | ![image](https://user-images.githubusercontent.com/128996657/233857624-7f08557b-6fd7-4fcb-9610-0727bd94292b.png) |
+| 19 | ![image](https://user-images.githubusercontent.com/128996657/233857638-594db85f-3d3e-479c-8374-26721735bcae.png) |
+| 22 | ![image](https://user-images.githubusercontent.com/128996657/233857649-ae5460f0-03f8-4178-9fed-93436044eb74.png) |
